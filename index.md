@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Hello World!
+title: Hello World! Welcome to Peter Hudson
 tagline: Personal Home Page
 ---
 {% include JB/setup %}
 
 # Hello 
 **And thank you for taking the time to visit.**
-This is the beginning of a long journey, plenty more to come.
+This is the beginning of a long journey, plenty more to come. This site is also viewable on <http://peter-hudson.github.io/>
+
 
 ## posts list.
 
