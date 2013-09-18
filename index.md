@@ -21,4 +21,5 @@ This is the beginning of a long journey, plenty more to come. This site is also 
 ### To-Do
 
 I really have a lot of work ahead of me with the design I had in mind.. Eek!
+This doesn't seem to update...
 
