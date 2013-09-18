@@ -9,7 +9,7 @@ tags : [beginner, jekyll, Digital Ocean]
 
 ## Digital Ocean Tutorial
 
-This is a test blog post to see if I have followed a Digital Ocean tutorial correctly. If so this should show up on my blog and feel free to follow the tutorial here - (https://www.digitalocean.com/community/articles/how-to-set-up-automatic-deployment-with-git-with-a-vps)
+This is a test blog post to see auto deploy works..
 
 
 
