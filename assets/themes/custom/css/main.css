@@ -24,8 +24,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-size: 100%; }
 
-h1 { margin-bottom: 1em; }
-h1 small { font-size: 40%; }
+h1 { margin-bottom: 1em; font-size:200%;}
+h1 small { font-size: 80%; }
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -73,8 +73,9 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 0;
-  font-size: 4em;
+  margin-bottom: 1em;
+  font-size: 3em;
+  font-weight: normal;
 }
 
 .site .header h1.title a {
