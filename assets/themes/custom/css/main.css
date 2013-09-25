@@ -58,6 +58,11 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+.js #canvas {
+    width: 100px;
+    height:100px;
+}
+
 .site {
   font-size: 115%;
   text-align: justify;
