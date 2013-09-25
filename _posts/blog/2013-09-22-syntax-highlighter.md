@@ -7,7 +7,7 @@ tags : [update, beginner, jekyll]
 
 {% include JB/setup %}
 
-I have upgraded my Jekyll (yay!) Though through the upgrades it stopped working on Windows 8... But thought I 
+I have upgraded my Jekyll (yay!). All of this is now being continuously updated, making future posts easier to add. Fin.
 
 
  echo 'Hello World';
