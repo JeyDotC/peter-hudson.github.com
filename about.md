@@ -1,3 +1,9 @@
+---
+layout: page
+category : "about me"
+tagline: "About Me"
+tags : [description]
+---
 {% include JB/setup %}
 ## About
 
