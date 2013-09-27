@@ -2,6 +2,7 @@
 layout: post
 category : "first post"
 tagline: "Hello World!"
+title: "Hello World!"
 tags : [intro, beginner, jekyll]
 ---
 

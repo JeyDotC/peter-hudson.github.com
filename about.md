@@ -1,8 +1,9 @@
 ---
 layout: page
 category: about me
-tagline: About Me
-tags: 
+tagline:
+title: About Me
+tags:
   - description
 published: true
 ---
