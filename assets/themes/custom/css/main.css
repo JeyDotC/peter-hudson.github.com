@@ -133,6 +133,22 @@ ul.posts span {
   border: 0;
 }
 
+ul.inline, .pagination ul {
+    overflow: hidden;
+}
+
+ul.inline li, .pagination ul li {
+    list-style-type: none;
+    float: left;
+}
+
+ul.inline li i, ul.inline li, .pagination ul li{
+    margin-right: 8px;
+}
+
+
+
+
 /*****************************************************************************/
 /*
 /* Posts
